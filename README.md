@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahen-kun
+- 👀 I’m interested in coding and arduino
+- 🌱 I’m currently learning both arduino and python
+- 💞️ I’m looking to collaborate on making an arduino project
+- 📫 How to reach me - ahenjit@outlook.com
